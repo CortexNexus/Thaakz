@@ -1,4 +1,4 @@
-# thaakz
+# Thaakz
 
 A personal Python utility library for reuse across multiple projects.
 Install once into your environment — import anywhere.
@@ -197,7 +197,15 @@ No reinstall needed — editable mode picks up new files automatically.
 | 0.1.0 | Initial release — `TimeReport` hierarchical phase timer |
 
 ---
+## Demo Video
+
+The demonstration video includes background footage from Pixabay.
+
+Video source:
+https://pixabay.com/videos/ai-generated-coins-bitcoins-euro-203874/
+
+Background video © Pixabay Content License.
 
 ## Author
-
+Aqsa Kashif
 SSP — thaakz personal utility library.
